@@ -2,7 +2,7 @@
 
 ## Installation
 
-```
+```bash
 yarn install
 ```
 
@@ -10,16 +10,16 @@ yarn install
 
 ### Environment Development
 
-```
+```bash
 yarn dev
 ```
 
 ### Environment Production
 
-```
+```bash
 yarn build
 ```
 
-```
+```bash
 yarn start
 ```

@@ -4,12 +4,12 @@
 
 ## Installation
 
-```
+```bash
 yarn install
 ```
 
 ## Running the application
 
-```
+```bash
 yarn start
 ```
